@@ -1,6 +1,6 @@
 // It is I Chilly
 // Johnny Ngo
-// This is Griffin
+// Griffin Kopp test 2
 public class Main {
     public static void main(String[] args) {
         
