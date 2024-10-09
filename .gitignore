@@ -1,3 +1,53 @@
 .gitignore
 
+# Mac
 .DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+.swp
+.swo
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.py[cod]
+*.egg-info/
+
+# Java
+target/
+*.jar
+*.war
+*.ear
+.mvn/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+tmp/
+temp/
+
+.env
+.env.local
+.env.*.local
+
+*.db
+*.bak
+*.backup
+
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.out
+*.a
